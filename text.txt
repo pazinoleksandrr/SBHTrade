@@ -1,0 +1,8 @@
+<pre>Array
+(
+    [user_id] => 30
+    [email] => meri_melikian100@gmail_com
+    [created_at] => 1702911516
+    [language] => english
+)
+</pre>
